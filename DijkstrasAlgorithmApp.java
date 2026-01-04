@@ -1,4 +1,4 @@
-package project_dijkstrasalgorithm;
+package dijkstrasalgorithmapp;
 import java.util.*;
 import java.io.*;
 
@@ -7,7 +7,7 @@ import java.io.*;
  * @author hannahgsimon
  */
 
-public class Project_DijkstrasAlgorithm
+public class DijkstrasAlgorithmApp
 {
     public static void main(String[] args) throws FileNotFoundException
     {
@@ -405,3 +405,4 @@ public class Project_DijkstrasAlgorithm
     }
     
 }
+
