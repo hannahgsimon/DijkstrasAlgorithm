@@ -1,4 +1,4 @@
-package project_dijkstrasalgorithm;
+package project_dijkstrasalgorithmapp;
 
 /**
  *
@@ -27,3 +27,4 @@ public class Neighbor
     }
     
 }
+
