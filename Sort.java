@@ -1,4 +1,4 @@
-package project_dijkstrasalgorithm;
+package project_dijkstrasalgorithmapp;
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -25,3 +25,4 @@ public class Sort<T extends Neighbor>
         }
     }
 }
+
